@@ -20,7 +20,7 @@
   <h3 align="center">Challenge ITPS ONE</h3>
 
   <p align="center">
-      Exercises provide by ITPS ONE
+      Challenge provide by ITPS ONE
     <br />
     <a href="https://github.com/m2m4r/Itps-challenge/Exercises"><strong>Explore the docs »</strong></a>
     <br />
