@@ -54,7 +54,7 @@ Author: Martin, Martinez Rizzi
 
 Martin Martinez Rizzi - [@twitter_handle](https://twitter.com/mizzezrartini) - martinezrizzimartin@gmail.com
 
-Project Link: [https://github.com/m2m4r/Itps-challenge/exercises](https://github.com/m2m4r/Itps-challenge)
+Project Link: [https://github.com/m2m4r/Itps-challenge/Exercises](https://github.com/m2m4r/Itps-challenge)
 
 
 
