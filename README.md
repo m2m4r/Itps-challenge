@@ -20,7 +20,7 @@
   <h3 align="center">Challenge ITPS ONE</h3>
 
   <p align="center">
-      Challenge provide by ITPS ONE
+      Challenge provide by ITPS ONE and Pamela Safar
     <br />
     <a href="https://github.com/m2m4r/Itps-challenge/Exercises"><strong>Explore the docs »</strong></a>
     <br />
