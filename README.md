@@ -22,7 +22,7 @@
   <p align="center">
       Exercises provide by ITPS ONE
     <br />
-    <a href="https://github.com/m2m4r/Itps-challenge/exercises"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/m2m4r/Itps-challenge/Exercises"><strong>Explore the docs »</strong></a>
     <br />
     <br />
  
