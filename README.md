@@ -17,7 +17,7 @@
 <p align="center">
 
 
-  <h3 align="center">Challenge Itps One</h3>
+  <h3 align="center">Challenge ITPS ONE</h3>
 
   <p align="center">
       Exercises provide by ITPS ONE
